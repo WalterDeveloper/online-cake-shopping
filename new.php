@@ -1,4 +1,5 @@
 <?php
+
 $statusMsg='';
 if(isset($_FILES["file"]["name"])){
    $email = $_POST['email'];
