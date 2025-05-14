@@ -13,6 +13,7 @@ if(isset($_FILES["file"]["name"])){
     $birth = $_POST['birth'];
    
 
+	
 //$subject= $subject;
 
  // Sender
